@@ -1,0 +1,6 @@
+Django==2.0.7
+psycopg2
+Pillow
+pytz==2018.5
+pymysql
+six
